@@ -1,0 +1,12 @@
+.Person{
+    background-color: lightgray;
+    width:60%;
+    margin:1.6rem auto;
+    padding:1.3rem;
+}
+
+@media(min-width: 500px){
+    .Person{
+        width:450px;
+    }
+}

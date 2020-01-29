@@ -1,0 +1,323 @@
+=================================================================================
+
+Persoonlijk ontwikkelingsplan (POP) - opvolgingsdocument Academiejaar 2019-2020
+
+=================================================================================
+
+
+<
+  Opmerking:
+  In het onderstaande document vervang je alle tekst tussen '<' en '>' door wat gevraagd wordt
+  of je verwijdert ze indien het enkel over commentaar gaat (zoals deze paragraaf).
+>
+
+
+
+Student:	Cansu Pakel
+
+Mentor:		Joris Maervoet
+
+
+=================================================================================
+Beschrijving - 23/09/2019 (in te vullen wanneer je je voorstel indient)
+=================================================================================
+
+Onderwerp: Webapplicatie met React.js en Node.js
+
+Einddoelen (met evaluatiecriteria):
+
+
+1.	Zal in staat zijn om een React (single page) applications te maken
+Indicator: Certificaat halen via de course: https://www.udemy.com/react-the-complete-guide-incl-redux/
+(Props & State, Components,Routing,HTTP request, Stateless vs Stateful ,React-model ,Forms & Validation, React Developer Tools)
+
+2. Ik zal een goede inzicht hebben in Node.js en zal in staat zijn om een real-time applicatie te maken.
+Indicator: Certificaat halen via de course: https://www.udemy.com/the-complete-nodejs-developer-course-2/  
+(API, Asynchronous, Socket.io, API authentication)
+
+3. Een webapplicatie waar React.js en Node.js samen komen.
+Indicator: Ik zal een toepassing maken. Een toepassing met registreren en login. Het zal een boekenwinkel zijn. Wanneer dat er een item wordt toegevoegd aan het winkelwagentje zal er een notificatie komen dat het is toegevoegd.
+Zal Node.js als back-end gebruiken en React als front-end. 
+
+Motivatie - betrokkenheid:
+De reden dat ik voor React.js & Node.js heb gekozen is, 
+omdat ze populair zijn en aangezien ik volgend semester op Erasmus zal gaan, heb ik het vak 
+van het tweede semester niet.
+
+
+Motivatie - grenzen verleggen:
+Ik zal mijn grenzen verleggen, aangezien ik deze 2 delen niet op school zal zien.
+
+
+Geef hier de opsomming van de kerndoelen van de opleiding waarbinnen je voorstel past, bijvoorbeeld: 
+1.b, 6.e, 8.i
+
+
+<Werkvormen:beschrijf hier kort welke werkvormen je zal hanteren om je einddoelen te bereiken>
+•	Node.js course op https://www.udemy.com/the-complete-nodejs-developer-course-2/ 
+•	React course op https://www.udemy.com/react-the-complete-guide-incl-redux/
+
+Ik zal de course voor React.js gaan bekijken. Vervolgens zal ik de course voor node.js volledig bekijken. Ik zal als laatst met React.js en Node.js 
+een werkelijke webapplicatie maken. 
+
+
+
+Feedback mentor - 02/10/2019 
+----------------------------
+
+Dag Cansu,
+
+node.js/React/socket.io zijn prima als onderwerp, maar je zal je einddoelen nog sterk moeten aanpassen.
+
+(1) we willen vermijden dat de student(e) onmiddellijk begint te implementeren zonder echt iets bij te leren. Daarom vragen we om aparte einddoelen te specifiëren voor kennisverwerving bv. 'ik doe course  X en haal het certificaat' of 'ik volg tutorial Y en hou alle oefeningen bij op git' of 'ik volg de documentatie en schrijf zelf een tutorial'. Kan je dus de courses mee opnemen in je einddoelen en daar bv het certificaat aan koppelen? Ik denk dat een aparte mini-applicatie dan overbodig wordt als je toch al de course en de eindtoepassing doet.
+(2) zo’n indicator moet zeer concreet en toetsbaar zijn (kijk eens naar de voorbeeldprojecten in de studiewijzer!!) je zal dus moeten herformuleren
+(3) zet gerust de deelaspecten naast het onderwerp: bv. node.js (API, Asynchronous, Socket.io, API authentication). Kan je dit ook doen voor react? Je zal dus al eens naar de documentatie moeten kijken.
+(4) Kan je dan ook al een beetje concreter worden over de toepassing? waarschijnlijk moeten er forms inzitten? en een authenticatie bij de server? en misschien iets van push notificaties omdat je met socket.io gaat werken? misschien moet je gewoon een aantal concepten tussen haakjes vermelden.
+
+Veel succes!
+
+
+Goedkeuring mentor - 05/10/2019 
+-------------------------------
+Goedgekeurd. 
+
+Veel succes!
+
+
+=================================================================================
+Planning - 02/10/2019 (op te stellen nadat je voorstel is goedgekeurd)
+=================================================================================
+
+Alle oefeningen dat ik maak tijdens de course zit hier: https://github.com/CansuPakel/React
+
+WEEK2: sectie 1 tot 4
+WEEK4: sectie 4 tot 6
+HERFSTVAKANTIE: sectie 1 tot 6 (nieuw course)
+WEEK 6: sectie 7-10
+WEEK 7: sectie 11-15 + Hogent meetup (React,Laravel,Typescript) 
+WEEK8: sectie 16-19
+WEEK9: Beginnen course node sectie 1 - 7
+WEEK10: sectie 8-13
+WEEK11: sectie 14-18
+Week12: Applicatie maken met react en node
+
+
+
+
+=================================================================================
+Logboek
+=================================================================================
+
+<Noteer hier je activiteiten, gevonden informatie, behaalde milestones, 
+belangrijke gebeurtenissen, problemen, oplossingen...
+Zet voor elke nieuwe entry op een aparte lijn je naam en de datum.
+Als je dat wil, mag je de zuiver technische informatie in een aanvullend 'technisch logboek'
+bijhouden (binnen je repository). In dat geval kan je hier bij de verschillende entries verwijzen
+naar dat technisch logboek.>
+
+<Hou hier je werkplanning bij, op te stellen nadat je voorstel is goedgekeurd>
+2 oktober tot en met 15 november => React.js
+2 oktober: 2 uren course React Sectie 1 & 2
+4 oktober: 2 uren course React Sectie 3
+6 oktober: 1 uur course React Sectie 4
+
+15 oktober: 3 uren course React Sectie 4
+16 oktober: 2 uren course React Sectie 5
+18 oktober: 2 uren course React Sectie 5
+20 oktober: 1 uur course React: Sectie 6
+
+29 oktober nieuw course aangeschaft https://www.udemy.com/course/react-2nd-edition/
+29 oktober: 2uren course React: Sectie 1 & 2 & 3
+30 oktober: 3urern course React Sectie 3 & 4: Components
+31 oktober: 2 uren course React Sectie 4 Components
+
+
+1 novelber 2 uren course React Sectie 5 Stateless Functional Components
+2 november 2 uren course React: Sectie 5 & 6:  Webpack
+3 november 3 uren course React: Sectie 6: Webpack
+4 november 1 uur course React:  Sectie 7: Modal 
+6 november 3 uren course React: Sectie 8: SCSS
+--PART 1 is klaar van course--
+7 november 2 uren course React: Sectie 9: React-Router
+8 november 3 uren course React: Sectie 10: Redux
+
+13 november: Meetup at HOGENT (Laravel with Front-end Intertia, React and Typescript)
+
+HERFSTVAKANTIE: Ik ben aan een nieuwe course begonnen, omdat ik de eerste course niet zo duidelijk vond.
+Uit de eerste course heb ik aantal zaken wel overgenomen. Dit zorgde ervoor dat de tweede course vlotter ging.
+
+
+WEEK6: Alles verliep heel goed zoals verwacht. Aangezien Modal en SCSS duidelijk waren uitgelegd. Over Redux
+had ik wat moeite om het te begrijpen. Maar achteraf begreep ik het wel. Ik had een probleem met een installatie dat niet in de course werd uitgelegd. Nadien kon ik het probleem wel oplossen.
+
+WEEK7: Deze week ging het wat minder vlot, aangezien ik telkens een warning van history kreeg. Wat nadien toch is opgelost. Bij de testfile kreeg ik ook een 
+foutmelding, waarvan ik de oorzaak niet wist. Na een tijdje had ik opgemerkt dat ik het woord ‘this’ was vergeten bij mijn component. 
+Nadien heb ik testen geschreven en ook op Heroku een applicatie gedeployd. Ben ook al begonnen met de basis van Firebase de database te gebruiken. Ik heb het niet volledig kunnen afwerken, vanwege ik tegen 
+eind week 8 een rapportering moest indienen voor het vak Data Security. Dus sectie 15 moet ik nog bij week 8 erbij nemen. 
+
+WEEK8: Deze week ging vlotter dan de vorige week. Ik heb authenticatie toegevoegd aan de applicatie. Ook het probleem van 14 november heb ik gevonden van de SingleDatePicker. 
+Alsook heb ik deze week de nieuwe features van React geleerd, zoals Hooks, Context, Fragments. Ondertussen heb ik ook een voorsprong genomen van 3 secties met node. 
+ 
+
+WEEK9: Week 9 verliep ook heel goed, aangezien het begin nog basis was. Ik heb een weatherapp gemaakt met behulp van API. 
+
+WEEK10:In week 10 heb ik leren werken met Express. We zijn begonnen met een Task app te maken en een connectie te leggen met de databank MongoDB & ook CRUD toegepast. 
+Authenticatie werd hier ook toegepast.
+
+WEEK11: In deze week heb ik een chatapplicatie gemaakt, wat ik zeer interessant vond. Alles ging vlot met de course.
+
+WEEK12 & KERSTVAKANTIE: Ik was begonnen met een todoapp als eindapplicatie voor node en react. Maar nadien merkte ik dat het een simpel voorbeeld was.
+Vervolgens ben ik op zoek gegaan, hoe ik routing met React makkelijker kon maken. Ik kwam dan uit op next een framework van React. Het heeft een structuur waar je aan moet houden.
+Waar je gemakkelijk node en express kan implementeren als api. Vervolgens voor de foto’s van de boeken heb ik gebruik gemaakt van cloudinary. Als er hier een image wordt geüpload,
+maakt hij hiervoor een afbeeldinglink, dat het makkelijk maakt om in databank in te steken. Voor payment system heb ik gebruik gemaakt van stripe checkout, omdat dat één van de populairste
+payment system is.
+
+------PROBLEMEN-------
+5/11: Mijn eerste probleem was in sectie 6.49, waar ik al mijn geïnstalleerd installatie moest verwijderen en achteraf opnieuw moest installeren enkel voor het project zelf.
+Ik moest live-server en babel-cli installeren. Dat ging goed, maar in de course had hij niets gezegd over installeren van babel-preset-react en babel-preset-env.
+
+14/11: Telkens als ik op een datum klik, kreeg ik een foutmelding dat mijn ‘focused’ boolean moest ziin, terwijl dit al zo was. Ik heb dit nog niet kunnen oplossen. 
+
+Soms waren er kleine problemen/vergeetachtigheid wanneer ik een async function maak "await" vergeten. 
+
+Al de problemen dat hier staan, zijn uiteindelijk opgelost.
+
+=================================================================================
+Eerste tussenrapportering - 07/11/2019
+=================================================================================
+
+Stand van zaken:
+Momenteel ervaar ik geen problemen, maar had tussentijds moeilijkheden met een bepaalde installatie die in het logboek staat. 
+React framework vind ik zelf leuker dan Vue dat ik vorig jaar in de tweede semester heb gezien. Ik heb part 1 van de course
+gedaan, het ging vlotter dan verwacht. Het werd ook heel goed uitgelegd. Ik heb nu zeker al een basiskennis van React. Vanaf part 2 begint het met router. 
+
+
+Reflectie:
+Ik had in het begin een course en begon er gelijk aan. Maar eind oktober ben ik met een nieuw course begonnen. 
+Omdat ik het eerste niet goed genoeg vond. Ik vond dat de lesgever te complex uitlegde dan dat het eigenlijk was.
+Ik heb zeker kennis meegenomen van course 1. Maar mijn nieuwe course vind ik zelf heel veel beter. Ik heb geprobeerd om zoveel mogelijk in te halen, 
+omdat ik dan wat achterstand had na het aanschaffen van een nieuwe course. Ik denk dat ik nu wel goed zit met mijn planning. 
+Ik kan nu zelf zeker een basis react project maken met deze kennis dat ik verworven heb. 
+Mijn oefeningen tijdens de course heb ik op mijn eigen github geplaatst, maar ik ga het ook in gitlab zelf plaatsen. 
+Tussentijds heb ik ook aantekeningen gedaan op een kladpapier, waarbij ik een paar commandos en uitleg noteerde. Die ga ik later verwerken in een Word document.
+Ik ben er zeker van dat ik mijn deadline zal behalen tegen 15 november voor React.
+ 
+
+Zelfevaluatie:
+nieuw verworven kennis:B
+toepassing aangetoond: B
+planning: C
+initiatief - inzet:B
+rapportering: C
+
+
+
+Feedback vanwege mentor - 10/11/2019:
+-------------------------------------
+
+Dag Cansu,
+
+we zien het als iets positief dat je tijdens het verloop van je project inziet dat een cursus niet 
+okee is en dat je hierop je planning bijstuurt. Het is duidelijk dat je er goed mee bezig bent 
+geweest en dat je voldoende moeite doet om bewijsmateriaal bij te houden. Goed!
+
+Ik heb de indruk dat je je planning gebruikt als een logboek. Het is de bedoeling om op voorhand 
+al week per week vast te leggeen in je planning wat je gaat doen. Het logboek dient dan om aan te 
+geven wat daarvan gelukt is. Een planning mag je altijd bijsturen natuurlijk.
+
+De stijl van je tussenrapportering is ok, en je zelfevaluatiescores zijn ook +/- goed ingeschat, 
+behalve 'toepassing aangetoond', omdat we daar vooral scoren op een eigen toepassing die niet 
+rechtstreeks gelinkt is aan de (video)cursus. 
+
+Veel succes en probeer op tijd te beginnen aan de toepassing!
+
+
+
+=================================================================================
+Eindrapportering - <datum van ingave>
+=================================================================================
+
+
+Eindrapportering:
+
+Ik heb zoals de indicatoren vermelden de twee courses (Node & React) afgewerkt en een applicatie gemaakt. Helaas heb ik nog iets
+niet kunnen bereiken in mijn applicatie. En dat is wanneer een boek tweemaal voorkomt in de shoppingcart. Als ik 
+het probeer te verwijderen, werden de beide verwijderd in plaats van één. Door tijdgebrek heb ik de volgende zin ook niet kunnen toevoegen: 
+“Wanneer dat er een item wordt toegevoegd aan het winkelwagentje zal er een notificatie komen dat het is toegevoegd.”. 
+
+Mijn eindapplicatie: https://bookshop-react-node.herokuapp.com/
+Er zijn twee rolen, namelijk user (test@mail.be & Azerty123) en een admin (admin@mail.be & Azerty123)
+Je kan namelijk als een admin boeken verwijderen en toevoegen. Als een user kan je boeken toevoegen aan uw winkelwagen.
+Vervolgens kan u op "checkout" klikken. Waar je een payment system krijgt, na het invullen van adres. 
+Creditkaart : 4242 4242 4242 4242 en 04 / 24 en 4242 ingeeft.  Je kan daarna uw orders zien in de “profile” pagina.
+
+
+Reflectie:
+
+Voor het eerste einddoel zal ik in staat zijn om een React (single page) applications te maken.
+Er is een indicator om een course af te werken, maar ik heb een andere course aangeschaft dan dat er in de indicator stond. (https://www.udemy.com/course/react-2nd-edition/)
+Omdat ik de andere course niet goed genoeg vond na het aanschaffen ervan. Misschien moest ik beter in begin kijken welke coursen er beter waren en rondvragen. 
+Want na het rondvragen, heeft iemand mij Andrew zijn course aangeraden. Ik heb in de course ook geleerd over redux, react-router, webpack,babel, jest, enzyme, 
+deployment app, firebase, authenticatie,… Heb de course van 39 uren kunnen afkrijgen, er werd in de course een applicatie gedeployd. 
+(https://react-firebase-expensify-pop.herokuapp.com/)
+
+Vervolgens ben ik met de course Node begonnen van Andrew. Omdat ik zijn course van React echt goed vond. In de course heb ik geleerd over Node.js, npm, Asynchronous programming,
+MongoDB, Express, Socket.io, JWT Authentication, Mongoose, File and image uploads, Email sending,REST API, jest,… Deze verliep vlotter omdat ik tijdens React 
+al kennis heb gemaakt met jest en ook in de vorige schooljaren. Ik zal in staat zijn om een real-time applicatie te maken na de course. 
+In de course hebben we ook een chat-app gemaakt. (https://chat-app-pop.herokuapp.com/)
+
+Na het afwerken van de beide coursen, ben ik begonnen met een applicatie te maken met React en Node. Ik heb hier gebruik gemaakt 
+van Next.js wat ik eerder niet had gepland. Toen ik aan het opzoeken was voor router react, kwam ik next.js tegen. Ik vind het een handige framework, 
+dat mooi meegenomen is. Waar ik daarin node als api gebruik. Ik gebruik hier MongoDb, omdat ik dat handiger vond tijdens course Node dan Firebase in course React. 
+
+Ik ben content met mijn keuze dat ik uiteindelijk toch een andere course heb aangeschaft. Want ik was aan het twijfelen en ik was niet meer mee met de course. 
+Na nieuwe course vond ik het interessanter en leuker. Ik denk dat ik misschien beter 1 course had aangeschaft over React en Node. Waar ze beiden in 1 course aan
+bod komen. Want twee coursen bekijken vond ik zelf niet zo leuk, omdat het soms langdradig was.  Maar misschien ging ik dan niet zo een uitgebreide kennis over gemaakt 
+hebben. Ik denk dat het leuk zou zijn om nog meer library’s te gebruiken/kennen. Zoals vermeld heb ik gebruik gemaakt van Next.js in de eindapplicatie. 
+Er waren natuurlijk ook andere aanpakken, zoals voor node geen course te bekijken maar zelf op te zoeken en een document te maken. Misschien ging dat niet zo 
+langdradig zijn zoals ik eerder vermeld heb. Maar de reden dat ik dat niet had gedaan is, omdat ik graag zelf wil coderen en geen document wil overschrijven. 
+
+Inhoud Portfolio:
+
+-	Node 
+    o	Course opdrachten
+    o	Samenvatting document
+    o	Certificaat
+-	React
+    o	Course1
+    o	NewCourse
+    o	Samenvatting document
+    o	Certificaat
+-	ReactNode
+    o	Applicatie bookshop
+
+
+Bronnenlijst:
+
+[1] 	„github,” [Online]. Available: https://github.com/babel/babel/issues/6808. [Geopend 05 11 2019].
+[2] 	„github modal,” [Online]. Available: https://github.com/ColorlibHQ/AdminLTE/issues/685 . [Geopend 12 11 2019].
+[3] 	„github history,” [Online]. Available: https://github.com/ReactTraining/history/issues/680. [Geopend 16 11 2019].
+[4] 	„github react-dates,” [Online]. Available: https://github.com/airbnb/react-dates/issues/1799. [Geopend 21 11 2019].
+[5] 	„react.semantic-ui.,” [Online]. Available: https://react.semantic-ui.com/ . [Geopend 22 12 2019].
+[6] 	„flaviocopes,” [Online]. Available: https://flaviocopes.com/how-to-serve-react-from-same-origin/. [Geopend 22 12 2019].
+[7] 	„flaviocopes,” [Online]. Available: https://flaviocopes.com/nextjs-api-routes/. [Geopend 05 01 2020].
+[8] 	„sergiodxa,” [Online]. Available: https://sergiodxa.com/articles/next-file-structure/ . [Geopend 05 01 2020].
+[9] 	„nextjs,” [Online]. Available: https://nextjs.org/docs/getting-started . [Geopend 05 01 2020].
+[10] 	„cloudinary,” [Online]. Available: https://cloudinary.com/ . [Geopend 06 01 2020].
+[11] 	„alligator payment,” [Online]. Available: https://alligator.io/react/payments-stripe-checkout-react/. [Geopend 06 01 2020].
+
+
+
+Zelfevaluatie:
+nieuw verworven kennis:A
+toepassing aangetoond: B
+planning: B
+initiatief - inzet:B
+rapportering: C
+
+
+
+
+
+
+

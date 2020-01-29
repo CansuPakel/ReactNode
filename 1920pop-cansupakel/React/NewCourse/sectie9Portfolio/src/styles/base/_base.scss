@@ -1,0 +1,23 @@
+//Separate file thats going to get loaded in though  know as a partial => starts with underscore
+
+//rem better support for accessibility: 1rem = 16px
+html{
+    font-size: 62.5%; //zorgt voor 2.2rem = 22px
+}
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: $m-size;
+} 
+
+
+button{
+    cursor: pointer;
+}
+
+button:disabled{
+    cursor: default;
+}
+
+.is-active{
+    font-weight: bold;
+}

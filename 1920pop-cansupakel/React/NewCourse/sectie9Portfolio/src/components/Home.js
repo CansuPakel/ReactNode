@@ -1,0 +1,10 @@
+import React from 'react';
+
+const Home = () =>(
+    <div>
+        <h1>Welcome</h1>
+        <p>Welcome to my site</p>
+    </div>
+);
+
+export default Home;
